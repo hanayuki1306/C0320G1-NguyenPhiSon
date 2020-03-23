@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ffd91ad6-555f-40fb-b6ba-9243dc434c3d" name="Default Changelist" comment="" />
+    <list default="true" id="ffd91ad6-555f-40fb-b6ba-9243dc434c3d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nhap trinh can ban/Bai Tap/test_commit.txt.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Nhap trinh can ban/Bai Tap/test_commit.txt.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1ZV2gbQQgt1Y4AStHMSadiI0FIV" />
   <component name="ProjectViewState">
@@ -16,6 +22,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -29,6 +36,10 @@
       <updated>1584910053010</updated>
       <workItem from="1584910055035" duration="522000" />
       <workItem from="1584910600769" duration="189000" />
+      <workItem from="1584949698545" duration="26000" />
+      <workItem from="1584949732470" duration="151000" />
+      <workItem from="1584949921255" duration="29000" />
+      <workItem from="1584949961971" duration="639000" />
     </task>
     <servers />
   </component>
